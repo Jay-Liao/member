@@ -11,4 +11,4 @@ Member Service provides member management functions.
 
 
 ## Member Service Design
-![Member Service Design](https://drive.google.com/file/d/1VmVdfFVNMPDFCuH7qjNscMVwkeEFX6uu/view?usp=share_link)
+![design](https://drive.google.com/file/d/1VmVdfFVNMPDFCuH7qjNscMVwkeEFX6uu/view?usp=share_link)
