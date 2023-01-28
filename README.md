@@ -8,3 +8,5 @@ Member Service provides member management functions.
 - User can get all members' data.
 - User can update a member's data.
 - User can delete a member's data.
+
+![Member Service Design](./images/Member%20Service%20Design.pngscreenshot.png)
